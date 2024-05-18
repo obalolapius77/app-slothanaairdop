@@ -1,0 +1,13 @@
+@font-face {
+    font-family: CrayonHand;
+    src: url("CrayonHand-YX7ICAQM.ttf") format("truetype")
+  }
+  
+  @font-face {
+    font-family: JejuHallasan;
+    src: url("JejuHallasan-YA2YCQDC.ttf") format("truetype")
+  }
+  
+  .number {
+    font-family: JejuHallasan !important
+  }
